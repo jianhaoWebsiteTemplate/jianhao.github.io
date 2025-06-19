@@ -1,6 +1,6 @@
 ---
-title: "标题案例1 Portfolio item number 1"
-excerpt: "一个简单的描述Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AM400 PRING PARTS"
+excerpt: "Here are some of the items we printed out 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
