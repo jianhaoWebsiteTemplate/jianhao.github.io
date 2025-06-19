@@ -12,12 +12,7 @@ site_theme               : "default"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Jianhao Zhu"
-description              : &description "Helle, nice to meet you in my website. My name is Jianhao Zhu. I am now working in gawkenergy company as a Mechanical Engineer. My research focuses on Additive Manufacturing (AM) and Process Intelligence. For AM, I primarily work on
-the generative design, process optimization, and material characterization for metal AM through laser powder bed
-fusion system (Renishaw AM400) to develop high-performance super alloys for aerospace and medical industries. For
-Process Intelligence, recognizing that metal printer training can be costly and complex, I am interested in advancing
-process intelligence as a human-centric knowledge system, one that empowers users by capturing expert knowledge and
-delivering it in a way that enhances learning, decision-making, and operational efficiency."
+description              : &description "Helle, nice to meet you in my website. My name is Jianhao Zhu. I am now working in gawkenergy company."
 url                      : https://jianhaowebsitetemplate.github.io/jianhao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
