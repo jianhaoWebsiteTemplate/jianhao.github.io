@@ -13,24 +13,6 @@ Education教育经历
 ======
 * M.S. in Manufacturing Systems Engineering, California State University Northridge, 2025
 * B.S. in Mechanical Engineering, California State University Northridge, 2024
-
-
-Work experience工作经历
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
