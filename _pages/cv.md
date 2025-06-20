@@ -42,9 +42,16 @@ resin by Formlabs PreForm.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*  Changyu Ma, Natan Roberto de Barros, Tianqi Zheng, Alejandro Gomez, Marshall Doyle, Jianhao Zhu, Himansu
+Sekhar Nanda, Xiaochun Li, Ali Khademhosseini, Bingbing Li*, 3D Printing and Surface Engineering of
+Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study, Biomimetics, 2024, Vol. 9 (7),
+p. 423. https://doi.org/10.3390/biomimetics9070423
+*  Changyu Ma, Tianqi Zheng, Yu-Keng Lin, Jianhao Zhu, Xiaochun Li, Y. Morris Wang, Bingbing Li*,
+Microstructure and Mechanical Properties of Haynes 282 Fabricated by Pulsed Wave (PW) Laser
+Powder Bed Fusion (L-PBF), Progress in Additive Manufacturing. Under Review
+*  Haolin Fan, Zhen Fan, Jianhao Zhu, Chenshu Liu, Tom Gibbs, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li*, A
+Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing ,
+npj Advanced Manufacturing. Second Revision
 
 Teaching
 ======
