@@ -1,6 +1,6 @@
 ---
 title: "Student at California State University, Northridge"
-excerpt: "Research and Study 1<br/><img src='ARCS.png'>"
+excerpt: "Research and Study "
 collection: portfolio
 ---
 
