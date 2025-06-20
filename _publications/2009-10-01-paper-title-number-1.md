@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1 这里改论文标题"
+title: "3D Printing and Surface Engineering of Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study,"
 collection: publications  
 category: manuscripts  分类
 permalink: /publication/2009-10-01-paper-title-number-1   这个要对应这个md文件的名字
