@@ -53,12 +53,27 @@ Powder Bed Fusion (L-PBF), Progress in Additive Manufacturing. Under Review
 Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing ,
 npj Advanced Manufacturing. Second Revision
 
-Teaching
+Experience & Project
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Energy and Appliance Standards for Plug Loads: Assessing Current Needs and Future Opportunities:
+This project primarily focuses on simulating device operations and analyzing data to provide recommendations for
+California’s energy efficiency policies based on simulation protocols and standards. It also involves conducting basic
+tests on plug load devices and developing reliable testing procedures to quantify energy usage across various operating
+modes
+* Workers and Technology Together (WATT): This project focuses on automating waste sorting by using machine
+learning to classify different types of waste. A large labeled dataset of waste images is created to train the system,
+enabling accurate and efficient waste segregation for improved recycling and sustainability. Increasing the volume of
+labeled image data leads to improved classification accuracy. The model is trained to identify thirteen distinct waste
+categories, such as cardboard, aluminum cans, and plastic bags
 Service and leadership
+* State Prediction and Energy Disaggregation using LSTM-Transformer Model for Sustainable
+Manufacturing. This project focuses on predicting the next-second state based on previous time states, achieving an
+accuracy of over 90%. It involves six devices, with data collection and analysis independently managed across two
+related sub-projects. Based on the first data collection phase, the project analyzed time-series data to distinguish
+between different temporal states at various timestamps and prepared the results for structured database storage.
+* Additive Manufacturing of Aerospace Heat Exchanger: With extensive experience in metal printing,
+particularly with aluminum, titanium, and stainless steel, currently focused on researching stainless steel 316 (SS316),
+Haynes 282, and AlSi10Mg materials. I am currently engaged in a research project on AIMg10 metal powder recycling,
+aiming to study the performance characteristics of metal powder after its initial use, followed by screening and detailed
+analysis.
 ======
-* Currently signed in to 43 different slack teams
