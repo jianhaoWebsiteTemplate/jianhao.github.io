@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Full CV](https://drive.google.com/file/d/12FWb4DLP0MV4MV_BpS-ZwsGgl5c0sb2w/view?usp=sharing)
+
 Education
 ======
 * M.S. in Manufacturing Systems Engineering, California State University Northridge, 2025
