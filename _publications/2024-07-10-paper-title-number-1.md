@@ -1,5 +1,5 @@
 ---
-title: "3D Printing and Surface Engineering of Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study,"
+title: "3D Printing and Surface Engineering of Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study"
 collection: publications  
 category: manuscripts
 permalink: /publication/2024-07-10-paper-title-number-1
