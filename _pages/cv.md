@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education教育经历
+[Full CV](https://drive.google.com/file/d/12FWb4DLP0MV4MV_BpS-ZwsGgl5c0sb2w/view?usp=sharing)
+Education
 ======
 * M.S. in Manufacturing Systems Engineering, California State University Northridge, 2025
 * B.S. in Mechanical Engineering, California State University Northridge, 2024
@@ -32,8 +32,7 @@ p. 423. https://doi.org/10.3390/biomimetics9070423
 Microstructure and Mechanical Properties of Haynes 282 Fabricated by Pulsed Wave (PW) Laser
 Powder Bed Fusion (L-PBF), Progress in Additive Manufacturing. Under Review
 *  Haolin Fan, Zhen Fan, Jianhao Zhu, Chenshu Liu, Tom Gibbs, Jerry Ying Hsi Fuh, Wen Feng Lu, Bingbing Li*, A
-Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing ,
-npj Advanced Manufacturing. Second Revision
+Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing, npj Advanced Manufacturing. Second Revision
 
 Experience & Project
 ======
@@ -58,4 +57,3 @@ particularly with aluminum, titanium, and stainless steel, currently focused on 
 Haynes 282, and AlSi10Mg materials. I am currently engaged in a research project on AIMg10 metal powder recycling,
 aiming to study the performance characteristics of metal powder after its initial use, followed by screening and detailed
 analysis.
-======
