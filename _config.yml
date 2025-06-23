@@ -13,7 +13,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Jianhao Zhu"
 description              : "Hello, welcome to my personal website. My name is Jianhao Zhu. I am currently working in Gawkenergy company."
-url                      : "https://jianhao1997.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://jiaohao1997.github.io/jianhao1997.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianhao1997/jianhao1997.github.io"
 
